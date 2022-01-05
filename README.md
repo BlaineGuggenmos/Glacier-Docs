@@ -11,4 +11,4 @@ The goal of Glacier is to allow users to create themes, exporting a theme to sha
 
 ## Archive Format
 ---
-Visit [examples/README.md](examples/README.md) for details.
+Visit [examples](examples/) for details.
