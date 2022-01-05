@@ -6,23 +6,15 @@ At the root of the theme archive, `info.json` file and `icons` folder should exi
 ## `info.json` File
 ---
 
-```json
-{
-    "id": "glcr-a_unique_id", // "glcr-" prefix is required
-    "name": "Example Theme",
-    "author": "John Doe",
-    "created": "Tue Jan 05 2022 16:34:00 GMT-0500 (Eastern Standard Time)",
-    "updated": "Tue Jan 05 2022 16:34:00 GMT-0500 (Eastern Standard Time)",
-    /* The two dates above are the result of (new Date()).toString() */
-    "icons": [
-        // For every icon added to icons folder, document its Name and corresponding Bundle ID in here.
-        {
-            "name": "Twitter",
-            "bundle_id": "com.atebits.Tweetie2"
-        }
-    ]
-}
-```
+key | type | description
+----|-----|----
+id  | string | must include "glcr-" prefix
+name | string | The name of the theme
+author | string | The author of the theme
+created | string | `new Date().toString()`
+updated | string | `new Date().toString()`
+icons | Array | *[See example](theme/info.json)*
+
 *See [theme/info.json](theme/info.json) for an example.*
 
 <br>
