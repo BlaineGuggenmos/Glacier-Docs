@@ -3,7 +3,6 @@ A non-jailbreak theming platform.
 
 **Note:** This repository is only for documentation, and not the source code itself.
 
-<br>
 
 ## Themes
 ---
