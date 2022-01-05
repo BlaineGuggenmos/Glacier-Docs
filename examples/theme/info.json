@@ -1,0 +1,13 @@
+{
+    "id": "glcr-uniqueid",
+    "name": "Example Theme",
+    "author": "John Doe",
+    "created": "Tue Jan 05 2022 16:34:00 GMT-0500 (Eastern Standard Time)",
+    "updated": "Tue Jan 05 2022 16:34:00 GMT-0500 (Eastern Standard Time)",
+    "icons": [
+        {
+            "name": "Twitter",
+            "bundle_id": "com.atebits.Tweetie2"
+        }
+    ]
+}
