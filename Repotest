@@ -1,0 +1,13 @@
+{
+    "info": {
+        "name": "guggenTheme",
+        "maintainer": "Blaine"
+    },
+    "themes": [
+        {
+            "name": "violet",
+            "author": "Blaine",
+            "url": ""
+        }
+    ]
+}
